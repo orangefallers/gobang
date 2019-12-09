@@ -1,4 +1,4 @@
-# flutter_app
+# 五子棋
 
 A new Flutter application.
 
